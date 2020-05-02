@@ -3,10 +3,10 @@
 
 #    = Nitrux OS CORE =
 
-nitrux-minimal
-nitrux-standard
-nitrux-hardware-drivers
-nx-desktop
+nitrux-minimal-legacy
+nitrux-standard-legacy
+nitrux-hardware-drivers-legacy
+nx-desktop-legacy
 
 #    = KDE Applications =
 
