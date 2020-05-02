@@ -13,7 +13,13 @@ nx-desktop-legacy
 ark
 kcalc
 kde-spectacle
+kdenlive
 kinfocenter
+ksysguard
+partitionmanager
+plasma-discover
+plasma-desktop
+plasma-desktop-data
 sddm
 systemsettings
 
@@ -33,6 +39,8 @@ gimp
 libreoffice-writer
 libreoffice-impress
 libreoffice-calc
+mpv
+qpdfview
 
 #   = Supporting bits =
 
