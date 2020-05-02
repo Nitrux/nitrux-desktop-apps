@@ -1,0 +1,28 @@
+# Comments start with a '#'.
+# Empty lines are ignored.
+
+#    = Nitrux OS CORE =
+
+nitrux-minimal
+nitrux-standard
+nitrux-hardware-drivers
+nx-desktop
+
+#    = KDE Applications =
+
+ark
+kcalc
+kde-spectacle
+kinfocenter
+sddm
+systemsettings
+
+
+#   = Other KDE or Qt Software =
+
+kdeconnect
+kmenuedit
+qpdfview
+latte-dock
+
+#   = Supporting bits =
