@@ -15,7 +15,7 @@ kcalc
 kde-spectacle
 kdenlive
 kinfocenter
-ksysguard
+#   ksysguard
 partitionmanager
 plasma-discover
 plasma-desktop
