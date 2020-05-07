@@ -3,9 +3,6 @@
 
 #    = Nitrux OS CORE =
 
-nitrux-minimal
-nitrux-standard
-nitrux-hardware-drivers
 nx-desktop
 
 #    = KDE Applications =
@@ -16,13 +13,13 @@ kde-spectacle
 kinfocenter
 sddm
 systemsettings
-
+latte-dock
 
 #   = Other KDE or Qt Software =
 
 kdeconnect
 kmenuedit
+qps
 qpdfview
-latte-dock
 
 #   = Supporting bits =
