@@ -3,9 +3,6 @@
 
 #    = Nitrux OS CORE =
 
-nitrux-minimal-legacy
-nitrux-standard-legacy
-nitrux-hardware-drivers-legacy
 nx-desktop-legacy
 
 #    = KDE Applications =
@@ -15,7 +12,6 @@ kcalc
 kde-spectacle
 kdenlive
 kinfocenter
-#   ksysguard
 partitionmanager
 plasma-discover
 plasma-desktop
