@@ -19,6 +19,15 @@ plasma-desktop-data
 sddm
 systemsettings
 
+#   = Maui apps =
+
+buho
+index
+nota
+pix
+station
+vvave
+
 #   = Other KDE or Qt Software =
 
 kdeconnect
