@@ -51,7 +51,7 @@ mpv
 cryptsetup
 cryptsetup-run
 cryptmount
-lvm2
+libreoffice-gtk3
+libreoffice-kde5
 plasma-discover-backend-flatpak
 plasma-discover-backend-snap
-libreoffice-gtk3
