@@ -32,6 +32,7 @@ vvave
 
 kdeconnect
 kmenuedit
+nitroshare
 qpdfview
 qps
 
@@ -54,4 +55,3 @@ cryptmount
 libreoffice-gtk3
 libreoffice-kde5
 plasma-discover-backend-flatpak
-plasma-discover-backend-snap
