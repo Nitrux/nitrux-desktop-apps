@@ -11,9 +11,10 @@ git_commit=$(git rev-parse --short HEAD)
 	"Priority: optional" \
 	"Homepage: https://nxos.org" \
 	"Package: nx-desktop-apps-legacy" \
-	"Version: 0.0.9-$git_commit" \
+	"Version: 0.1.0-$git_commit" \
 	"Maintainer: Uri Herrera <uri_herrera@nxos.org>" \
 	"Depends: $deps" \
+	"Conflicts: nx-desktop-apps" \
 	"Architecture: amd64" \
 	"Description: NX Desktop Apps metapackage for Nitrux."
 
