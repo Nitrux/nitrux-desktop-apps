@@ -5,6 +5,21 @@
 
 nx-desktop-legacy
 
+#    = CLI Apps =
+
+cmus
+dc
+ftp
+hdparm
+htop
+mc
+ncdu
+nsnake
+tmate
+tree
+w3m
+wget
+
 #    = KDE Applications =
 
 ark
@@ -50,9 +65,13 @@ mpv
 
 #   = Supporting bits =
 
+cryptmount
 cryptsetup
 cryptsetup-run
-cryptmount
+docker.io
+fakeroot
+flatpak
+gamemode
 libreoffice-gtk3
 libreoffice-kde5
 plasma-discover-backend-flatpak
