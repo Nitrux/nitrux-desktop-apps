@@ -31,6 +31,8 @@ unzip
 wget
 zip
 
+#    = NX Desktop Apps =
+
 #    = KDE Applications =
 
 ark
@@ -45,7 +47,7 @@ plasma-desktop-data
 sddm
 systemsettings
 
-#   = Maui apps =
+#    = Maui apps =
 
 buho
 index
@@ -55,7 +57,7 @@ pix
 station
 vvave
 
-#   = Other KDE or Qt Software =
+#    = Other KDE or Qt Software =
 
 kdeconnect
 kmenuedit
@@ -64,8 +66,7 @@ qpdfview
 qps
 qt5-style-kvantum
 
-
-#   = Other Software =
+#    = Other Software =
 
 firefox
 inkscape
@@ -76,7 +77,9 @@ libreoffice-impress
 libreoffice-calc
 mpv
 
-#   = Supporting bits =
+#    = VMetal Supporting bits =
+
+#    = Supporting bits =
 
 cryptmount
 cryptsetup
