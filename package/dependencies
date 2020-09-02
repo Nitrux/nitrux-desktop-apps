@@ -18,7 +18,18 @@ nsnake
 tmate
 tree
 w3m
+
+#    = CLI Utils =
+
+axel
+curl
+git
+p7zip-full
+rsync
+unrar
+unzip
 wget
+zip
 
 #    = KDE Applications =
 
@@ -51,6 +62,8 @@ kmenuedit
 nitroshare
 qpdfview
 qps
+qt5-style-kvantum
+
 
 #   = Other Software =
 
