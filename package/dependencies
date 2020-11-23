@@ -38,8 +38,9 @@ zip
 ark
 kcalc
 kde-spectacle
-kdenlive
+# kdenlive
 kinfocenter
+# latte-dock
 partitionmanager
 plasma-discover
 sddm
@@ -67,13 +68,13 @@ qt5-style-kvantum
 #    = Other Software =
 
 firefox
-inkscape
-lmms
-gimp
-libreoffice-writer
-libreoffice-impress
-libreoffice-calc
-mpv
+# inkscape
+# lmms
+# gimp
+# libreoffice-writer
+# libreoffice-impress
+# libreoffice-calc
+# mpv
 
 #    = VMetal Supporting bits =
 
