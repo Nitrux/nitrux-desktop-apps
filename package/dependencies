@@ -34,7 +34,6 @@ zip
 ark
 kcalc
 kde-spectacle
-# kdenlive
 kinfocenter
 latte-dock
 partitionmanager
@@ -44,13 +43,6 @@ systemsettings
 
 #    = Maui apps =
 
-# buho
-# index
-# mauikit
-# nota
-# pix
-# station
-# vvave
 
 #    = Other KDE or Qt Software =
 
@@ -64,13 +56,6 @@ qt5-style-kvantum
 #    = Other Software =
 
 firefox
-# inkscape
-# lmms
-# gimp
-# libreoffice-writer
-# libreoffice-impress
-# libreoffice-calc
-# mpv
 nx-desktop-appimages-legacy
 
 #    = VMetal Supporting bits =
