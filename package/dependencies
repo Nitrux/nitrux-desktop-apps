@@ -4,7 +4,6 @@
 #    = CLI Apps =
 
 cmus
-dc
 ftp
 hdparm
 htop
@@ -49,7 +48,6 @@ kdeconnect
 kmenuedit
 ksysguard
 nitroshare
-qpdfview
 qt5-style-kvantum
 
 #    = Other Software =
