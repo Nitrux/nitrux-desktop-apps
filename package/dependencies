@@ -36,7 +36,6 @@ kcalc
 kde-spectacle
 kinfocenter
 latte-dock
-plasma-discover
 sddm
 systemsettings
 
@@ -69,5 +68,4 @@ docker.io
 fakeroot
 flatpak
 gamemode
-plasma-discover-backend-flatpak
 xdg-desktop-portal-kde
