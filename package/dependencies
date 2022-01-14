@@ -9,6 +9,7 @@ hdparm
 htop
 links2
 mc
+micro
 ncdu
 nsnake
 tmate
@@ -61,9 +62,7 @@ nx-desktop-appimages-legacy
 #    = Supporting bits =
 
 cgroupfs-mount
-cryptmount
-cryptsetup
-cryptsetup-run
+dnsproxy
 default-jre
 docker.io
 fakeroot
