@@ -64,6 +64,7 @@ nx-desktop-appimages-legacy
 cgroupfs-mount
 dnsproxy
 default-jre
+distrobox
 docker.io
 fakeroot
 flatpak
