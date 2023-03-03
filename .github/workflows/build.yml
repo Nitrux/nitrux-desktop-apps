@@ -3,7 +3,7 @@ name: Build and push packages to PackageCloud.
 on:
   push:
     branches:
-      - 'legacy'
+      - 'legacy-plasma'
     paths-ignore:
       - 'README.md'
 
@@ -25,4 +25,4 @@ jobs:
         env:
           PACKAGECLOUD_TOKEN: ${{ secrets.PACKAGECLOUD_TOKEN }}
         run: |
-          package_cloud push nitrux/concept/debian/trixie $(pwd)/*.deb
+          package_cloud push nitrux/testing/debian/trixie $(pwd)/*.deb
