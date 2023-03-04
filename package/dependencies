@@ -41,6 +41,10 @@ latte-dock
 sddm
 systemsettings
 
+#    = Maui apps =
+
+maui-apps-git
+
 #    = Other KDE or Qt Software =
 
 kdeconnect
