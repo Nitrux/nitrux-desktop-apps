@@ -18,6 +18,7 @@ tree
 #    = CLI Utils =
 
 axel
+aria2
 curl
 git
 inxi
