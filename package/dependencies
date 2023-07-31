@@ -50,6 +50,7 @@ maui-apps-git
 
 kdeconnect
 kmenuedit
+qt5-style-kvantum
 plasma-systemmonitor
 nitroshare
 
@@ -70,6 +71,7 @@ gamemode
 openjdk-21-jre
 openjdk-21-jre-headless
 podman
+podman-toolbox
 slirp4netns
 touchegg-kde
 xdg-desktop-portal-gnome
