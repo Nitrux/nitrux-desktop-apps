@@ -62,13 +62,15 @@ nx-desktop-appimages-legacy
 #    = Supporting bits =
 
 cgroupfs-mount
-openjdk-21-jre
-openjdk-21-jre-headless
 distrobox
 docker.io
 fakeroot
 flatpak
 gamemode
-xdg-desktop-portal-kde
-xdg-desktop-portal-gnome
+openjdk-21-jre
+openjdk-21-jre-headless
+podman
+slirp4netns
 touchegg-kde
+xdg-desktop-portal-gnome
+xdg-desktop-portal-kde
