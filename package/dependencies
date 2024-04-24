@@ -17,17 +17,36 @@ tree
 
 #    = CLI Utils =
 
-axel
 aria2
+axel
 curl
 git
 inxi
 p7zip-full
 rsync
+smbclient
 unrar
 unzip
 wget
+xclip
+xsel
 zip
+
+#   = CLI Tools =
+
+fprintd
+kboot
+kdotool
+rofi
+rsyslog
+safe-rm
+samba
+sbsigntool
+tlp
+tlp-rdw
+tor
+ufw
+wireguard
 
 #    = NX Desktop Apps =
 
@@ -56,7 +75,11 @@ plasma-systemmonitor
 
 #    = Other Software =
 
+0install
 nx-desktop-appimages-legacy
+waydroid
+waydroid-openrc
+zenity
 
 #    = VMetal Supporting bits =
 
@@ -73,6 +96,9 @@ openjdk-21-jre-headless
 podman
 podman-toolbox
 slirp4netns
+spice-avahi-openrc
+spice-vdagent
+spice-webdavd
 touchegg-kde
 xdg-desktop-portal-gnome
 xdg-desktop-portal-kde
