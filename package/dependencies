@@ -78,7 +78,6 @@ plasma-systemmonitor
 0install
 nx-desktop-appimages-legacy
 waydroid
-waydroid-openrc
 zenity
 
 #    = VMetal Supporting bits =
@@ -96,7 +95,6 @@ openjdk-21-jre-headless
 podman
 podman-toolbox
 slirp4netns
-spice-avahi-openrc
 spice-vdagent
 spice-webdavd
 touchegg-kde
