@@ -50,7 +50,7 @@ wireguard
 
 #    = NX Desktop Apps =
 
-nx-software-center-git
+# nx-software-center-git
 
 #    = KDE Applications =
 
@@ -63,8 +63,8 @@ systemsettings
 
 #    = Maui apps =
 
-maui-apps-git
-# maui-appimages-git
+# maui-apps-git
+maui-appimages-git
 
 #    = Other KDE or Qt Software =
 
