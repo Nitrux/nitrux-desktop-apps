@@ -76,6 +76,7 @@ plasma-systemmonitor
 #    = Other Software =
 
 0install
+corectrl
 nx-desktop-appimages-legacy
 waydroid
 zenity
