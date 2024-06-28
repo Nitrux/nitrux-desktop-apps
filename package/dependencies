@@ -37,6 +37,7 @@ zip
 fprintd
 kboot
 kdotool
+nvme-cli
 rofi
 rsyslog
 safe-rm
