@@ -79,8 +79,11 @@ nuts
 overlayroot
 powerline
 rng-tools5
+samba
 selinux-basics
 ssh-askpass
+tlp
+tlp-rdw
 tor
 torsocks
 ufw
