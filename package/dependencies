@@ -83,6 +83,7 @@ selinux-basics
 ssh-askpass
 torsocks
 uidmap
+ufw
 vulkan-tools
 
 #    = NX Desktop Apps =
