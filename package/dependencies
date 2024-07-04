@@ -17,37 +17,73 @@ tree
 
 #    = CLI Utils =
 
+apparmor-utils
 aria2
 axel
+cgroupfs-mount
+coreutils
+cron
 curl
+dialog
+distrobox
+docker.io
+flatpak
+gamemode
+gcc-11
 git
 inxi
+man-db
+mesa-utils
 p7zip-full
+podman
+podman-toolbox
+preload
+pv
+pwgen
+rng-tools5
 rsync
+slirp4netns
 smbclient
+spice-vdagent
+spice-webdavd
+touchegg-kde
 unrar
 unzip
 wget
 xclip
 xsel
 zip
+zstd
 
 #   = CLI Tools =
 
-fprintd
-kboot
-kdotool
-nvme-cli
-rofi
-rsyslog
-safe-rm
-samba
-sbsigntool
-tlp
-tlp-rdw
-tor
-ufw
-wireguard
+accountsservice
+aide
+bup
+clinfo
+dbab
+dnscrypt-proxy
+firejail
+fscrypt
+ghostscript-x
+git-lfs
+gnome-keyring
+gnupg-agent
+gobject-introspection
+graphviz
+mariadb-client-core-10.6
+mariadb-server-core-10.6
+mscompress
+nohang
+nuts
+overlayroot
+powerline
+rng-tools5
+selinux-basics
+ssh-askpass
+torsocks
+uidmap
+vulkan-tools
 
 #    = NX Desktop Apps =
 
@@ -57,9 +93,10 @@ wireguard
 
 kcalc
 kde-spectacle
+kgpg
 kinfocenter
+kwalletmanager
 partitionmanager
-sddm
 systemsettings
 
 #    = Maui apps =
@@ -71,35 +108,36 @@ maui-apps-git
 
 kdeconnect
 kmenuedit
-qt5-style-kvantum
+mozc-utils-gui
 plasma-systemmonitor
+qt5-style-kvantum
 
 #    = Other Software =
 
 0install
 corectrl
-nx-desktop-appimages-legacy
 waydroid
 zenity
 
+#   = NX Desktop =
+
+nx-desktop-appimages-legacy
+
+
 #    = VMetal Supporting bits =
+
 
 #    = Supporting bits =
 
-cgroupfs-mount
-distrobox
-docker.io
+aide-common
+apparmor-profiles
+apparmor-profiles-extra
 fakeroot
-flatpak
-gamemode
+firejail-profiles
+language-selector-common
+mariadb-common
 openjdk-21-jre
 openjdk-21-jre-headless
-podman
-podman-toolbox
-slirp4netns
-spice-vdagent
-spice-webdavd
-touchegg-kde
 xdg-desktop-portal-gnome
 xdg-desktop-portal-kde
 xdg-desktop-portal-wlr
