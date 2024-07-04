@@ -72,14 +72,18 @@ gnupg-agent
 gobject-introspection
 graphviz
 kboot
+kdotool
 mariadb-client-core-10.6
 mariadb-server-core-10.6
 mscompress
 nohang
 nuts
+nvme-cli
 overlayroot
 powerline
 rng-tools5
+rofi
+safe-rm
 samba
 selinux-basics
 ssh-askpass
@@ -90,6 +94,9 @@ torsocks
 ufw
 uidmap
 vulkan-tools
+wireguard
+wireguard-dkms
+wireguard-tools
 
 #    = NX Desktop Apps =
 
