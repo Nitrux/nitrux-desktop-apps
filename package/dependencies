@@ -71,6 +71,7 @@ gnome-keyring
 gnupg-agent
 gobject-introspection
 graphviz
+kboot
 mariadb-client-core-10.6
 mariadb-server-core-10.6
 mscompress
