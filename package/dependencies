@@ -81,6 +81,7 @@ powerline
 rng-tools5
 selinux-basics
 ssh-askpass
+tor
 torsocks
 uidmap
 ufw
