@@ -76,6 +76,7 @@ kdotool
 mariadb-client-core-10.6
 mariadb-server-core-10.6
 mscompress
+multipath-tools
 nohang
 nuts
 nvme-cli
