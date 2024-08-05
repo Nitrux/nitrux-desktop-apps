@@ -73,6 +73,9 @@ gobject-introspection
 graphviz
 kboot
 kdotool
+lvm2
+lvm2-dbusd
+lvm2-lockd
 mariadb-client-core-10.6
 mariadb-server-core-10.6
 mscompress
@@ -92,6 +95,7 @@ tlp
 tlp-rdw
 tor
 torsocks
+udisks2-lvm2
 ufw
 uidmap
 vulkan-tools
