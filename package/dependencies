@@ -125,6 +125,7 @@ maui-apps-git
 #    = Other KDE or Qt Software =
 
 kdeconnect
+kdialog
 kmenuedit
 mozc-utils-gui
 plasma-systemmonitor
