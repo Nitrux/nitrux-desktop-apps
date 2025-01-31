@@ -84,6 +84,7 @@ nohang
 nuts
 nvme-cli
 overlayroot
+power-profiles-daemon
 powerline
 rng-tools5
 rofi
