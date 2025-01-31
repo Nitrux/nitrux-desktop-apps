@@ -92,8 +92,6 @@ safe-rm
 samba
 selinux-basics
 ssh-askpass
-tlp
-tlp-rdw
 tor
 torsocks
 udisks2-lvm2
