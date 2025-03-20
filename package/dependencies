@@ -110,24 +110,24 @@ wireguard-tools
 
 kcalc
 kde-spectacle
+kdeconnect
+kdialog
 kgpg
 kinfocenter
+kmenuedit
 kwalletmanager
 partitionmanager
+plasma-systemmonitor
 systemsettings
 
 #    = Maui apps =
 
 maui-apps-git
-# maui-appimages-git
 
 #    = Other KDE or Qt Software =
 
-kdeconnect
-kdialog
-kmenuedit
+
 mozc-utils-gui
-plasma-systemmonitor
 qt5-style-kvantum
 
 #    = Other Software =
