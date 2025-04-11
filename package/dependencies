@@ -151,7 +151,6 @@ aide-common
 apparmor-profiles
 apparmor-profiles-extra
 fakeroot
-firejail-profiles
 language-selector-common
 mariadb-common
 openjdk-21-jre
