@@ -29,7 +29,6 @@ distrobox
 docker.io
 flatpak
 gamemode
-gcc-11
 git
 inxi
 man-db
