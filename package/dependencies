@@ -75,8 +75,6 @@ kdotool
 lvm2
 lvm2-dbusd
 lvm2-lockd
-mariadb-client-core-10.6
-mariadb-server-core-10.6
 mscompress
 multipath-tools
 nohang
@@ -97,8 +95,7 @@ udisks2-lvm2
 ufw
 uidmap
 vulkan-tools
-wireguard
-wireguard-dkms
+wireguard-modules
 wireguard-tools
 
 #    = NX Desktop Apps =
