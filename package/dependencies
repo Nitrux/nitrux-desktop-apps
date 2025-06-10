@@ -1,155 +1,60 @@
 # Comments start with a '#'.
 # Empty lines are ignored.
 
-#    = CLI Apps =
+#    = AppImages =
 
+nx-desktop-appimages
+
+#    = KDE Applications =
+
+
+#    = MauiKit Apps =
+
+maui-apps-git
+
+#    = Nitrux Apps =
+
+kboot
+nuts
+sb-manager
+
+#    = Other KDE or Qt software =
+
+
+#    = GTK software =
+
+
+#    = CLI software =
+
+accountsservice
+axel
 cmus
+cron
+curl
+devmem2
+dialog
+fakeroot
+flatpak
 ftp
-hdparm
-htop
+kdotool
 links2
 mc
 micro
 ncdu
-nsnake
-tmate
-tree
-
-#    = CLI Utils =
-
-apparmor-utils
-aria2
-axel
-cgroupfs-mount
-coreutils
-cron
-curl
-dialog
-distrobox
-docker.io
-flatpak
-gamemode
-git
-inxi
-man-db
-mesa-utils
-p7zip-full
-podman
-podman-toolbox
+nohang
+overlayroot
+patchelf
+powerline
 preload
 pv
 pwgen
-rng-tools5
 rsync
-slirp4netns
-smbclient
-spice-vdagent
-spice-webdavd
-touchegg-kde
-unrar
-unzip
-wget
-xclip
-xsel
-zip
-zstd
-
-#   = CLI Tools =
-
-accountsservice
-aide
-bup
-clinfo
-dbab
-dnscrypt-proxy
-firejail
-fscrypt
-ghostscript-x
-git-lfs
-gnome-keyring
-gnupg-agent
-gobject-introspection
-graphviz
-kboot
-kdotool
-lvm2
-lvm2-dbusd
-lvm2-lockd
-mscompress
-multipath-tools
-nohang
-nuts
-nvme-cli
-overlayroot
-power-profiles-daemon
-powerline
-rng-tools5
-rofi
-safe-rm
-samba
-selinux-basics
-ssh-askpass
-tor
-torsocks
-udisks2-lvm2
-ufw
-uidmap
-vulkan-tools
-wireguard-modules
-wireguard-tools
-
-#    = NX Desktop Apps =
-
-# nx-software-center-git
-
-#    = KDE Applications =
-
-kcalc
-kde-spectacle
-kdeconnect
-kdialog
-kgpg
-kinfocenter
-kmenuedit
-kwalletmanager
-partitionmanager
-plasma-systemmonitor
-systemsettings
-
-#    = Maui apps =
-
-maui-apps-git
-
-#    = Other KDE or Qt Software =
-
-
-mozc-utils-gui
-
-#    = Other Software =
-
-0install
-corectrl
-gamescope
+tmate
+tree
 waydroid
-zenity
-
-#   = NX Desktop =
-
-nx-desktop-appimages-legacy
-
-#    = VMetal Supporting bits =
+wget
 
 
-#    = Supporting bits =
+#    = VFIO =
 
-aide-common
-apparmor-profiles
-apparmor-profiles-extra
-fakeroot
-language-selector-common
-mariadb-common
-openjdk-21-jre
-openjdk-21-jre-headless
-xdg-desktop-portal-gnome
-xdg-desktop-portal-kde
-xdg-desktop-portal-wlr
+nitrux-vfio-enablement
