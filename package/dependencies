@@ -17,13 +17,13 @@ kboot
 nuts
 sb-manager
 
-#    = Other KDE or Qt software =
+#    = Other KDE or Qt Apps =
 
 
-#    = GTK software =
+#    = GTK Apps =
 
 
-#    = CLI software =
+#    = CLI Apps =
 
 accountsservice
 axel
@@ -52,7 +52,6 @@ tmate
 tree
 waydroid
 wget
-
 
 #    = VFIO =
 
