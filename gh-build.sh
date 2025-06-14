@@ -34,11 +34,11 @@ git_commit=$(git rev-parse --short HEAD 2>/dev/null)
 	"Section: misc" \
 	"Priority: required" \
 	"Homepage: https://nxos.org" \
-	"Package: nx-desktop-apps" \
+	"Package: nitrux-desktop-apps" \
 	"Version: 0.8.5-$git_commit" \
 	"Maintainer: Uri Herrera <uri_herrera@nxos.org>" \
 	"Depends: $deps" \
 	"Architecture: all" \
-	"Description: NX Desktop metapackage for Nitrux."
+	"Description: Desktop apps metapackage for Nitrux."
 
 equivs-build configuration
