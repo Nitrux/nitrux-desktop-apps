@@ -1,8 +1,9 @@
 # Comments start with a '#'.
 # Empty lines are ignored.
 
-#    = AppImages =
+#    = Nitrux OS Desktop =
 
+nitrux-desktop
 
 #    = KDE Applications =
 
@@ -27,15 +28,11 @@ sb-manager
 
 accountsservice
 axel
-cmus
 cron
 curl
-devmem2
 dialog
 fakeroot
 flatpak
-ftp
-kdotool
 links2
 mc
 micro
