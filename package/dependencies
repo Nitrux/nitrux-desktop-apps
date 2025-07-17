@@ -1,55 +1,66 @@
 # Comments start with a '#'.
 # Empty lines are ignored.
 
-#    = Nitrux OS Desktop =
-
-nitrux-desktop
-
-#    = KDE Applications =
+#    = KDE Apps =
 
 
 #    = MauiKit Apps =
 
 maui-apps
 
-#    = Nitrux Apps =
+#    = Nitrux software =
 
 kboot
 nuts
 sb-manager
 
-#    = Other KDE or Qt Apps =
+#    = Other KDE or Qt software =
 
+corectrl
 
 #    = GTK Apps =
 
 
-#    = CLI Apps =
+#    = CLI tools and utilities =
 
 accountsservice
 axel
-cron
+clinfo
 curl
 dialog
+dmidecode
 fakeroot
 flatpak
-links2
-mc
-micro
-ncdu
+gamemode
+ghostscript
+git
+git-lfs
+gnupg-agent
+hdparm
+htop
+inxi
+irqbalance
+kexec-tools
+man-db
+msr-tools
 nohang
 overlayroot
 patchelf
+pciutils
 powerline
-preload
 pv
 pwgen
-rsync
-tmate
+rng-tools5
+rsyslog
 tree
-waydroid
+uidmap
+vulkan-tools
 wget
 
-#    = VFIO =
+#    = Containerization =
 
-nitrux-vfio-enablement
+docker.io
+distrobox
+podman
+podman-toolbox
+waydroid
