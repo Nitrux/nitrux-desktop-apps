@@ -42,6 +42,7 @@ inxi
 irqbalance
 kexec-tools
 man-db
+micro
 msr-tools
 nohang
 overlayroot
