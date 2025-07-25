@@ -1,13 +1,6 @@
 # Comments start with a '#'.
 # Empty lines are ignored.
 
-#    = KDE Apps =
-
-
-#    = MauiKit Apps =
-
-maui-apps
-
 #    = Nitrux software =
 
 kboot
@@ -17,9 +10,6 @@ sb-manager
 #    = Other KDE or Qt software =
 
 corectrl
-
-#    = GTK Apps =
-
 
 #    = CLI tools and utilities =
 
@@ -58,7 +48,7 @@ uidmap
 vulkan-tools
 wget
 
-#    = Containerization =
+#    = Container software =
 
 docker.io
 distrobox
