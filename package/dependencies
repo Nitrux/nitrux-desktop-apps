@@ -18,6 +18,7 @@ corectrl
 crystal-dock
 kgpg
 systemsettings
+plasma-systemmonitor
 
 #    = CLI tools and utilities =
 
@@ -25,7 +26,6 @@ accountsservice
 axel
 clinfo
 curl
-dialog
 dialog
 dmidecode
 fakeroot
@@ -53,7 +53,6 @@ powerline
 psmisc
 pv
 pwgen
-rng-tools5
 rsyslog
 slurp
 sway-notification-center
