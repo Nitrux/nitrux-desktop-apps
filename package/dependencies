@@ -40,6 +40,7 @@ hdparm
 htop
 inxi
 kexec-tools
+lstopo
 man-db
 micro
 msr-tools
