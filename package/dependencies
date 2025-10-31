@@ -69,6 +69,7 @@ zenity
 
 #    = Container software =
 
+crun
 docker.io
 distrobox
 podman
