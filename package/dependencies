@@ -9,6 +9,7 @@ sb-manager
 
 #    = GTK software =
 
+nwg-displays
 nwg-look
 
 #    = KDE or Qt software =
