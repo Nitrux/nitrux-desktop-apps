@@ -18,9 +18,11 @@ ark
 corectrl
 crystal-dock
 kgpg
+kup-backup
 kwalletmanager
-systemsettings
+plasma-firewall
 plasma-systemmonitor
+systemsettings
 
 #    = CLI tools and utilities =
 
