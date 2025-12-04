@@ -49,6 +49,7 @@ kexec-tools
 man-db
 micro
 msr-tools
+noctalia-shell
 nohang
 overlayroot
 patchelf
@@ -58,6 +59,7 @@ powerline
 psmisc
 pv
 pwgen
+quickshell
 rsyslog
 slurp
 sway-notification-center
