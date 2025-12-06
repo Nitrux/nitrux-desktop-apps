@@ -9,6 +9,7 @@ sb-manager
 
 #    = GTK software =
 
+gufw
 nwg-displays
 nwg-look
 
@@ -21,7 +22,6 @@ kde-config-flatpak
 kgpg
 kup-backup
 kwalletmanager
-plasma-firewall
 plasma-systemmonitor
 systemsettings
 
