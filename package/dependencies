@@ -61,6 +61,7 @@ pv
 pwgen
 rsyslog
 slurp
+strace
 sway-notification-center
 swayosd
 tcpdump
