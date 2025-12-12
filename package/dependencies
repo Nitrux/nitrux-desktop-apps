@@ -45,6 +45,7 @@ hdparm
 htop
 hwloc
 inxi
+iputils-ping
 kexec-tools
 man-db
 micro
@@ -62,6 +63,7 @@ rsyslog
 slurp
 sway-notification-center
 swayosd
+tcpdump
 tree
 uidmap
 vulkan-tools
