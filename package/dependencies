@@ -55,6 +55,7 @@ overlayroot
 patchelf
 pciutils
 pipx
+playerctl
 powerline
 psmisc
 pv
