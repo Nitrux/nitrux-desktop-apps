@@ -28,6 +28,7 @@ systemsettings
 #    = CLI tools and utilities =
 
 accountsservice
+avizo
 axel
 clinfo
 curl
