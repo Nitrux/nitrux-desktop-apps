@@ -64,7 +64,6 @@ rsyslog
 slurp
 strace
 sway-notification-center
-swayosd
 tcpdump
 tree
 uidmap
