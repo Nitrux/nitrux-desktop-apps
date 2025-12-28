@@ -82,3 +82,7 @@ docker.io
 distrobox
 podman
 podman-toolbox
+
+#    = Other software =
+
+flatpak-xdg-utils
