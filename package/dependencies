@@ -29,6 +29,7 @@ systemsettings
 
 accountsservice
 axel
+bup
 clinfo
 curl
 dialog
