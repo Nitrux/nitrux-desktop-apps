@@ -22,8 +22,8 @@ kde-config-flatpak
 kgpg
 kup-backup
 kwalletmanager
-plasma-systemmonitor
 partitionmanager
+plasma-systemmonitor
 systemsettings
 
 #    = CLI tools and utilities =
