@@ -23,6 +23,7 @@ kgpg
 kup-backup
 kwalletmanager
 plasma-systemmonitor
+partitionmanager
 systemsettings
 
 #    = CLI tools and utilities =
