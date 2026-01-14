@@ -49,6 +49,7 @@ hwloc
 inxi
 iputils-ping
 kexec-tools
+looking-glass-client
 man-db
 micro
 msr-tools
