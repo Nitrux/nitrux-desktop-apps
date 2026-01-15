@@ -33,6 +33,7 @@ axel
 bup
 clinfo
 curl
+ddcutil
 dialog
 dmidecode
 fakeroot
