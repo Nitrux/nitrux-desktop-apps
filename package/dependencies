@@ -79,7 +79,6 @@ waybar
 wget
 wl-clipboard
 wlogout
-wofi
 zenity
 
 #    = Container software =
