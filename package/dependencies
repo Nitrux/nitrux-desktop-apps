@@ -9,7 +9,9 @@ nitrux-dmemcg-booster
 nudge-osd
 nuts-cpp
 nuts-cpp-settings
+nx-overlayroot
 sb-manager
+valenz
 vxm
 wirecloak
 
@@ -57,7 +59,6 @@ man-db
 micro
 msr-tools
 nohang
-overlayroot
 patchelf
 pciutils
 pipx
@@ -69,12 +70,10 @@ pwgen
 rsyslog
 slurp
 strace
-sway-notification-center
 tcpdump
 tree
 uidmap
 vulkan-tools
-waybar
 wget
 wl-clipboard
 wlogout
