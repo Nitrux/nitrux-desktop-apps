@@ -5,6 +5,7 @@
 
 cinderward
 kboot
+marina
 nitrux-dmemcg-booster
 nudge-osd
 nuts-cpp
@@ -22,13 +23,11 @@ nwg-look
 #    = KDE or Qt software =
 
 ark
-crystal-dock
 kgpg
 kup-backup
 kwalletmanager
 partitionmanager
 plasma-systemmonitor
-systemsettings
 
 #    = CLI tools and utilities =
 
