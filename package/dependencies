@@ -58,6 +58,7 @@ looking-glass-client
 man-db
 micro
 msr-tools
+network-manager-tui
 nohang
 patchelf
 pciutils
