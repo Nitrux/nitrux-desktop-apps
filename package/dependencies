@@ -68,7 +68,7 @@ powerline
 psmisc
 pv
 pwgen
-rg
+ripgrep
 rsyslog
 slurp
 strace
