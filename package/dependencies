@@ -23,11 +23,7 @@ wirecloak
 
 #    = KDE or Qt software =
 
-ark
-kgpg
-kwalletmanager
 partitionmanager
-plasma-systemmonitor
 
 #    = CLI tools and utilities =
 
