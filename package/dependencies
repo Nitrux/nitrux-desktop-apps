@@ -12,6 +12,7 @@ nudge-osd
 nuts-cpp
 nuts-cpp-settings
 nx-overlayroot
+qmlogout
 sb-manager
 toma
 valenz
@@ -72,7 +73,6 @@ tree
 uidmap
 vulkan-tools
 wget
-wlogout
 zenity
 
 #    = Container software =
